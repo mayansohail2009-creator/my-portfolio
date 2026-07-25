@@ -12,13 +12,13 @@ const featuredProjects: Project[] = [
     id: 1,
     title: "Master Closer – Autonomous Sales Pipeline Agent",
     description: "Designed for B2B teams needing automated outreach. Master Closer gathers leads, enriches profiles with Apollo, and writes personalized emails using proven sales frameworks. It delivers end-to-end automation, reducing SDR workload while maintaining high response rates.",
-    image: "/projects/placeholder-1.svg",
+    image: "/projects/master-closer.png",
   },
   {
     id: 2,
     title: "Oil Cron – Real-Time Market Intelligence Agent",
     description: "Built for analysts tracking regional energy trends. Oil Cron fetches live web data, monitors government policy updates, and evaluates global conflict impacts to accurately predict oil price trends and explain real-time market volatility.",
-    image: "/projects/placeholder-2.svg",
+    image: "/projects/oil-cron.png",
   },
 ];
 
