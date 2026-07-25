@@ -40,6 +40,10 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 Every branch or Pull Request is automatically deployed by [Vercel](https://vercel.com/) with their GitHub integration, where the `main` branch is automatically aliased to [mohammadayan-portfolio.vercel.app](https://mohammadayan-portfolio.vercel.app/). A link to a preview deployment will appear under each Pull Request.
 
+# 🔊 Credit
+
+Ibrahim Memon
+
 # 🏛 Licenses
 
 © Copyright 2026 Mohammad Ayan
