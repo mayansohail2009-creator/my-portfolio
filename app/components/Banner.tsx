@@ -125,12 +125,14 @@ export default function Banner(): React.JSX.Element {
             </div>
           </div>
         </div>
-        <div className="space-y-3 pt-15 text-center lg:text-left">
-          <p className="text-5xl text-foreground font-bold">
-            I&apos;m an {displayedText}
-            <span className="animate-pulse">|</span>
+        <div className="space-y-3 pt-10 lg:pt-15 text-center lg:text-left">
+          <p className="text-3xl sm:text-4xl md:text-5xl text-foreground font-bold leading-tight break-words min-h-[2.6em] sm:min-h-[1.3em] flex items-center justify-center lg:justify-start">
+            <span>
+              I&apos;m an {displayedText}
+              <span className="animate-pulse">|</span>
+            </span>
           </p>
-          <p className="text-lg text-foreground/80 max-w-2xl mt-15 mx-auto lg:mx-0">
+          <p className="text-lg text-foreground/80 max-w-2xl mt-8 lg:mt-15 mx-auto lg:mx-0">
             With 3 years in AI, I build autonomous agents for lead generation,
             enrichment, and framework-driven outreach. I deploy scalable
             solutions that replace manual labor and yield higher output for a
