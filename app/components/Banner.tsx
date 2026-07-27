@@ -96,7 +96,7 @@ export default function Banner(): React.JSX.Element {
                 width={100}
                 height={100}
                 className="absolute "
-                style={{ left: "-100px", top: "-50px", width: "auto", height: "auto" }}
+                style={{ left: "-116px", top: "-62px", width: "auto", height: "auto" }}
               />
               <div style={{ bottom: 40, position: "relative" }}>
                 <p className="text-foreground text-lg">
