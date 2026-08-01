@@ -133,10 +133,9 @@ export default function Banner(): React.JSX.Element {
             </span>
           </p>
           <p className="text-lg text-foreground/80 max-w-2xl mt-8 lg:mt-15 mx-auto lg:mx-0">
-            With 3 years in AI, I build autonomous agents for lead generation,
-            enrichment, and framework-driven outreach. I deploy scalable
-            solutions that replace manual labor and yield higher output for a
-            fraction of the cost.
+            I build autonomous reporting agents for Shopify stores. Weekly
+            narratives with custom metrics delivered via email or a channel of
+            your choice, no dashboards to login to.
           </p>
         </div>
       </div>
