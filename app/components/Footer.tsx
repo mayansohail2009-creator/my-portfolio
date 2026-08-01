@@ -9,8 +9,8 @@ export default function Footer(): React.JSX.Element {
             Contact
           </h2>
           <p className="text-md text-foreground/80 max-w-2xl mx-auto mb-8">
-            I don&apos;t charge unless I provide direct value. Free trials
-            available for custom agent setups.
+            Let&apos;s discuss how custom AI automation can scale your
+            operations and eliminate hours of repetitive work.
           </p>
         </div>
 
