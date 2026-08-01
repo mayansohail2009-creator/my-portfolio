@@ -42,11 +42,9 @@ export default function Projects(): React.JSX.Element {
                   <h3 className="text-3xl lg:text-4xl font-bold text-foreground mb-6">
                     {project.title}
                   </h3>
-                  {/* Description Card - extends over image */}
-                  <div className="relative z-10 mb-6">
-                    <div className={`bg-gradient-to-br from-white/5 to-white/10 backdrop-blur-md rounded-2xl p-6 lg:p-8 border border-white/10 shadow-lg ${
-                      isEven ? "lg:ml-[-20%]" : "lg:w-[calc(100%+20%)]"
-                    }`}>
+                  {/* Description Card */}
+                  <div>
+                    <div className="bg-gradient-to-br from-white/5 to-white/10 rounded-2xl p-6 lg:p-8 border border-white/10 shadow-lg">
                       <p className="text-foreground/90 text-base lg:text-lg leading-relaxed mb-6">
                         {project.description}
                       </p>
